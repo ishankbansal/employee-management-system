@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Employee Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## How to install :
 
 In the project directory, you can run:
 
-### `npm start`
+- `git clone [repository url]`
+- `cd [local repository]`
+- `npm install`
+- `npm start`
+- `npm i react-toastify` (Used for alert pop up)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Developed and implemented an employee management system with local storage where a user can add the details of employee and can perform CRUD operations. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You can find the link of the project [here](https://ishank-employee-management-system.netlify.app/). 
 
-### `npm test`
+## Landing page of employee management system :
+<br>
+<img width="1440" alt="Screenshot 2023-02-02 at 11 05 56 PM" src="https://user-images.githubusercontent.com/80847853/216400975-c64b0012-b102-4f2e-baf5-ec135b34ae18.png">
+<br>
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Adding an employee :
+<br>
+<img width="1439" alt="Screenshot 2023-02-02 at 11 15 54 PM" src="https://user-images.githubusercontent.com/80847853/216401798-d75da94d-0ab9-4f2c-9c52-e480578043af.png">
+<br>
+<img width="1440" alt="Screenshot 2023-02-02 at 11 18 16 PM" src="https://user-images.githubusercontent.com/80847853/216402384-3519c870-99c1-4a29-be98-a910d1a250dc.png">
 
-### `npm run build`
+<br>
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Editing the employee details :
+<br>
+<img width="1440" alt="Screenshot 2023-02-02 at 11 20 34 PM" src="https://user-images.githubusercontent.com/80847853/216402831-f9008588-ba45-464a-b42d-bccaf01d4fda.png">
+<br>
+<img width="1440" alt="Screenshot 2023-02-02 at 11 21 44 PM" src="https://user-images.githubusercontent.com/80847853/216403197-5acaec0b-e769-4b83-9c54-d00cd93d69c1.png">
+<br>
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Deleting the employee details :
+<br>
+<img width="1440" alt="Screenshot 2023-02-02 at 11 25 24 PM" src="https://user-images.githubusercontent.com/80847853/216403944-92f7a630-2d86-4c78-89de-8f318b5a7171.png">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
+<br>
 
-### `npm run eject`
+## Local Storage Data :
+<br>
+<img width="938" alt="Screenshot 2023-02-02 at 11 28 57 PM" src="https://user-images.githubusercontent.com/80847853/216404721-84aa6902-0e96-4397-850f-a8841b03923c.png">
+<br>
+<br>
+<br>
+<hr>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### If you like the project, do give it a star! 😁
